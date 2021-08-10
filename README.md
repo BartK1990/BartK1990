@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BartK1990
+- 👋 Hi, my name is bartosz and I'm from Poland
 - 🌱 I’m currently learning .NET/C# 
 - 💞️ I’m looking to collaborate on some .NET projects
 - 📫 If you want to reach me please send me a message on kuriata.bartosz@gmail.com
