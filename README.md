@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Bartosz and I'm from Poland
-- 🌱 I’m currently learning .NET/C# 
-- 💞️ I’m looking to collaborate on some .NET projects
+- 🌱 I’m Software Engineer, Automation Engineer and working mostly with SCADA, PLC, Renewable Energy systems and anything related with system integrations.
 - 📫 If you want to reach me please send me a message on kuriata.bartosz@gmail.com
 
 <!---
